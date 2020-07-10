@@ -2,5 +2,9 @@ body{
     text-align: center;
     display: table;
     margin: 0 auto;
-    overflow: auto;       
+    overflow: auto;         
+}
+
+#black:hover, #rc:hover, #shade:hover{
+    transform: scale(1.1);
 }
